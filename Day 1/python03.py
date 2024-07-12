@@ -22,8 +22,8 @@ if __name__ == "__main__":
 
     # types of variables
 
-    # x = "Hello World"                                # str
     # x = 20                                           # int
+    # x = "Hello World"                                # str
     # x = 20.5                                         # float
     # x = 1j                                           # complex
     # x = ["apple", "banana", "cherry"]                # list Mutable
